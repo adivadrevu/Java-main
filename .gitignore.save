@@ -1,0 +1,25 @@
+# Node modules and package files
+node_modules/
+.npm/
+.nvm/
+package-lock.json
+yarn.lock
+
+# IDE and OS-specific files
+.DS_Store
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Other build or dependency directories
+dist/
+build/
+.cache/
+
+
